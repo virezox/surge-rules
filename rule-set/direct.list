@@ -1,0 +1,6 @@
+USER-AGENT,MicroMessenger Client*
+USER-AGENT,WeChat*
+PROCESS-NAME,WeChat
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,steamcontent.com

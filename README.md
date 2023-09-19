@@ -1,2 +1,0 @@
-# surge-rules
-Surge Rules
